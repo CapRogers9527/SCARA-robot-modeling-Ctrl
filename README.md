@@ -20,5 +20,5 @@ you can just open control GUI with following command in "your workspace/src/SCAR
 ```
 python3 move_GUI_xd.py
 ```
-
+![](xd.gif)
 a project for controlling SCARA with Rviz&amp;ROS&amp;Python
