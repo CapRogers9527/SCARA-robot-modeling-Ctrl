@@ -14,8 +14,7 @@ pip3 install -r requirements.txt
 
 run this if you haven't pip and tkinter in your device
 ```
-sudo apt-get install python3-tk
-sudo apt-get install python3-pip
+sudo apt-get install python3-tk python3-pip
 ```
 
 # How to use
