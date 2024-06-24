@@ -20,5 +20,8 @@ you can just open control GUI with following command in "your workspace/src/SCAR
 ```
 python3 move_GUI_xd.py
 ```
+the GUI can be seen like this, you can input any pose if only within its workspace
 ![](xd.gif)
+
+
 a project for controlling SCARA with Rviz&amp;ROS&amp;Python
