@@ -1,7 +1,11 @@
 # SCARA-robot-modeling-Ctrl
 This is a simple robot kinematics process project, including pose control, trajectory control and quintic polynomial continuous trajectory, written in python
+# Before you go
 
-
+this project rely on python scripts, before you go, you should run the following command in your workspace/src/SCARA
+```
+pip3 install -r requirements.txt
+```
 
 # How to use
 After you download this files and put it in your workspace/src in ubuntu, open terminal in your workspace
