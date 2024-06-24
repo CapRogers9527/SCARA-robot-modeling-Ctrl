@@ -2,9 +2,20 @@
 This is a simple robot kinematics process project, including pose control, trajectory control and quintic polynomial continuous trajectory, written in python
 # Before you go
 
+be ware the version of requirements:
+- ROS    melodic or noetic
+- python   above 3.6.9
+- UBUNRU   18.04 - 20.04
+
 this project rely on python scripts, before you go, you should run the following command in your workspace/src/SCARA
 ```
 pip3 install -r requirements.txt
+```
+
+run this if you haven't pip and tkinter in your device
+```
+sudo apt-get install python3-tk
+sudo apt-get install python3-pip
 ```
 
 # How to use
